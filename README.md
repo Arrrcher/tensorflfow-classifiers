@@ -13,3 +13,4 @@ of the xml file in my computer, which may be different from yours. Please be awa
 
 The architecture we used to train our own classifier is faster_rcnn_resnet_101. You can download it from the model zoo provided by tensorflow 
 https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md.
+try
