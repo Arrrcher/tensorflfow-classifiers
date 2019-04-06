@@ -6,3 +6,6 @@ The frozen interface graph file can be downloaded via the dropbox link, and this
 If you are interested in the labeled images and the csv file we used, you can go into the 'images and csv file' folder to check the images we used.
 If you want to download the entire folder and add more images, feel free to do so. However, please rememer that the xml file contains the path
 of the xml file in my computer, which may be different from yours. Please be aware of that.
+
+The architecture we used to detect is faster_rcnn_resnet_101. You can download it from the model zoo provided by tensorflow 
+https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md.
