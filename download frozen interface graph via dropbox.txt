@@ -1,2 +1,0 @@
-the frozen interface file can be downloaded via the dropbox link
-https://www.dropbox.com/s/ytxr6e9z300e3ii/frozen_inference_graph.pb?dl=0
