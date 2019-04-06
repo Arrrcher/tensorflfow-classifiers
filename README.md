@@ -1,6 +1,9 @@
 # tensorflfow-classifiers
 This repository current contains a customized classifier which is able to detect boxes in image/video, or live stream via tensorflow object detection api
 
+![capture](https://user-images.githubusercontent.com/42654960/55675930-0a254a00-5898-11e9-9b4c-b4990371b288.PNG)
+
+
 The frozen interface graph file can be downloaded via the dropbox link, and this is all you need to detect boxes(by using this as your classifier)
 
 If you are interested in the labeled images and the csv file we used, you can go into the 'images and csv file' folder to check the images we used.
